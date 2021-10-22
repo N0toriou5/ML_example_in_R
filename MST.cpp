@@ -1,4 +1,4 @@
-/* Homework 3: calculate MST using the Kruskal algorithm*/
+/* Calculate MST using the Kruskal algorithm*/
 /* */
 
 #include<iostream>
