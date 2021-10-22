@@ -1,3 +1,3 @@
-# ML_example_in_R
+# Miscellaneous
 
-Example of usage of the caret package using the Iris dataset
+Example code collection in different languages
