@@ -1,3 +1,4 @@
+# code to establish an internet connection through port 80 and retrieve data
 import socket
 
 mysock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
